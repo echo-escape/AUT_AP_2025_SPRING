@@ -1,0 +1,208 @@
+[2026-03-07 23:56:00] 整理文件: organizer_log.txt
+   ├── 原始位置: need_organize/organizer_log.txt
+   └── 目标位置: need_organize/txt
+--------------------------------------------------
+[2026-03-07 23:56:00] 整理文件: demo.mp4
+   ├── 原始位置: need_organize/mp4/demo.mp4
+   └── 目标位置: need_organize/mp4
+--------------------------------------------------
+[2026-03-07 23:56:00] 整理文件: example.mp4
+   ├── 原始位置: need_organize/mp4/example.mp4
+   └── 目标位置: need_organize/mp4
+--------------------------------------------------
+[2026-03-07 23:56:00] 整理文件: sample.mp4
+   ├── 原始位置: need_organize/mp4/sample.mp4
+   └── 目标位置: need_organize/mp4
+--------------------------------------------------
+[2026-03-07 23:56:00] 整理文件: test.mp4
+   ├── 原始位置: need_organize/mp4/test.mp4
+   └── 目标位置: need_organize/mp4
+--------------------------------------------------
+[2026-03-07 23:56:00] 整理文件: demo.mp3
+   ├── 原始位置: need_organize/mp3/demo.mp3
+   └── 目标位置: need_organize/mp3
+--------------------------------------------------
+[2026-03-07 23:56:00] 整理文件: sample.mp3
+   ├── 原始位置: need_organize/mp3/sample.mp3
+   └── 目标位置: need_organize/mp3
+--------------------------------------------------
+[2026-03-07 23:56:00] 整理文件: example.mp3
+   ├── 原始位置: need_organize/mp3/example.mp3
+   └── 目标位置: need_organize/mp3
+--------------------------------------------------
+[2026-03-07 23:56:00] 整理文件: test.mp3
+   ├── 原始位置: need_organize/mp3/test.mp3
+   └── 目标位置: need_organize/mp3
+--------------------------------------------------
+[2026-03-07 23:56:00] 整理文件: test.zip
+   ├── 原始位置: need_organize/zip/test.zip
+   └── 目标位置: need_organize/zip
+--------------------------------------------------
+[2026-03-07 23:56:00] 整理文件: sample.zip
+   ├── 原始位置: need_organize/zip/sample.zip
+   └── 目标位置: need_organize/zip
+--------------------------------------------------
+[2026-03-07 23:56:00] 整理文件: example.zip
+   ├── 原始位置: need_organize/zip/example.zip
+   └── 目标位置: need_organize/zip
+--------------------------------------------------
+[2026-03-07 23:56:00] 整理文件: demo.zip
+   ├── 原始位置: need_organize/zip/demo.zip
+   └── 目标位置: need_organize/zip
+--------------------------------------------------
+[2026-03-07 23:56:00] 整理文件: sample.txt
+   ├── 原始位置: need_organize/txt/sample.txt
+   └── 目标位置: need_organize/txt
+--------------------------------------------------
+[2026-03-07 23:56:00] 整理文件: demo.txt
+   ├── 原始位置: need_organize/txt/demo.txt
+   └── 目标位置: need_organize/txt
+--------------------------------------------------
+[2026-03-07 23:56:00] 整理文件: test.txt
+   ├── 原始位置: need_organize/txt/test.txt
+   └── 目标位置: need_organize/txt
+--------------------------------------------------
+[2026-03-07 23:56:00] 整理文件: organizer_log.txt
+   ├── 原始位置: need_organize/txt/organizer_log.txt
+   └── 目标位置: need_organize/txt
+--------------------------------------------------
+[2026-03-07 23:56:00] 整理文件: example.txt
+   ├── 原始位置: need_organize/txt/example.txt
+   └── 目标位置: need_organize/txt
+--------------------------------------------------
+Start to log at 
+[2026-03-08 13:59:28] 整理文件: nested_file.docx
+   ├── 原始位置: need_organize/docx/nested_file.docx
+   └── 目标位置: need_organize/docx
+   └── 状态: DRY-RUN (未实际移动)
+--------------------------------------------------
+[2026-03-08 13:59:28] 整理文件: sample.jpg
+   ├── 原始位置: need_organize/jpg/sample.jpg
+   └── 目标位置: need_organize/jpg
+   └── 状态: DRY-RUN (未实际移动)
+--------------------------------------------------
+[2026-03-08 13:59:28] 整理文件: example.jpg
+   ├── 原始位置: need_organize/jpg/example.jpg
+   └── 目标位置: need_organize/jpg
+   └── 状态: DRY-RUN (未实际移动)
+--------------------------------------------------
+[2026-03-08 13:59:28] 整理文件: demo.jpg
+   ├── 原始位置: need_organize/jpg/demo.jpg
+   └── 目标位置: need_organize/jpg
+   └── 状态: DRY-RUN (未实际移动)
+--------------------------------------------------
+[2026-03-08 13:59:28] 整理文件: test.jpg
+   ├── 原始位置: need_organize/jpg/test.jpg
+   └── 目标位置: need_organize/jpg
+   └── 状态: DRY-RUN (未实际移动)
+--------------------------------------------------
+[2026-03-08 13:59:28] 整理文件: test.sh
+   ├── 原始位置: need_organize/sh/test.sh
+   └── 目标位置: need_organize/sh
+   └── 状态: DRY-RUN (未实际移动)
+--------------------------------------------------
+[2026-03-08 13:59:28] 整理文件: sample.sh
+   ├── 原始位置: need_organize/sh/sample.sh
+   └── 目标位置: need_organize/sh
+   └── 状态: DRY-RUN (未实际移动)
+--------------------------------------------------
+[2026-03-08 13:59:28] 整理文件: demo.sh
+   ├── 原始位置: need_organize/sh/demo.sh
+   └── 目标位置: need_organize/sh
+   └── 状态: DRY-RUN (未实际移动)
+--------------------------------------------------
+[2026-03-08 13:59:28] 整理文件: example.sh
+   ├── 原始位置: need_organize/sh/example.sh
+   └── 目标位置: need_organize/sh
+   └── 状态: DRY-RUN (未实际移动)
+--------------------------------------------------
+[2026-03-08 13:59:28] 整理文件: organizer_log.txt
+   ├── 原始位置: need_organize/organizer_log.txt
+   └── 目标位置: need_organize/txt
+   └── 状态: DRY-RUN (未实际移动)
+--------------------------------------------------
+[2026-03-08 13:59:28] 整理文件: demo.mp4
+   ├── 原始位置: need_organize/mp4/demo.mp4
+   └── 目标位置: need_organize/mp4
+   └── 状态: DRY-RUN (未实际移动)
+--------------------------------------------------
+[2026-03-08 13:59:28] 整理文件: example.mp4
+   ├── 原始位置: need_organize/mp4/example.mp4
+   └── 目标位置: need_organize/mp4
+   └── 状态: DRY-RUN (未实际移动)
+--------------------------------------------------
+[2026-03-08 13:59:28] 整理文件: sample.mp4
+   ├── 原始位置: need_organize/mp4/sample.mp4
+   └── 目标位置: need_organize/mp4
+   └── 状态: DRY-RUN (未实际移动)
+--------------------------------------------------
+[2026-03-08 13:59:28] 整理文件: test.mp4
+   ├── 原始位置: need_organize/mp4/test.mp4
+   └── 目标位置: need_organize/mp4
+   └── 状态: DRY-RUN (未实际移动)
+--------------------------------------------------
+[2026-03-08 13:59:28] 整理文件: demo.mp3
+   ├── 原始位置: need_organize/mp3/demo.mp3
+   └── 目标位置: need_organize/mp3
+   └── 状态: DRY-RUN (未实际移动)
+--------------------------------------------------
+[2026-03-08 13:59:28] 整理文件: sample.mp3
+   ├── 原始位置: need_organize/mp3/sample.mp3
+   └── 目标位置: need_organize/mp3
+   └── 状态: DRY-RUN (未实际移动)
+--------------------------------------------------
+[2026-03-08 13:59:28] 整理文件: example.mp3
+   ├── 原始位置: need_organize/mp3/example.mp3
+   └── 目标位置: need_organize/mp3
+   └── 状态: DRY-RUN (未实际移动)
+--------------------------------------------------
+[2026-03-08 13:59:28] 整理文件: test.mp3
+   ├── 原始位置: need_organize/mp3/test.mp3
+   └── 目标位置: need_organize/mp3
+   └── 状态: DRY-RUN (未实际移动)
+--------------------------------------------------
+[2026-03-08 13:59:28] 整理文件: test.zip
+   ├── 原始位置: need_organize/zip/test.zip
+   └── 目标位置: need_organize/zip
+   └── 状态: DRY-RUN (未实际移动)
+--------------------------------------------------
+[2026-03-08 13:59:28] 整理文件: sample.zip
+   ├── 原始位置: need_organize/zip/sample.zip
+   └── 目标位置: need_organize/zip
+   └── 状态: DRY-RUN (未实际移动)
+--------------------------------------------------
+[2026-03-08 13:59:28] 整理文件: example.zip
+   ├── 原始位置: need_organize/zip/example.zip
+   └── 目标位置: need_organize/zip
+   └── 状态: DRY-RUN (未实际移动)
+--------------------------------------------------
+[2026-03-08 13:59:28] 整理文件: demo.zip
+   ├── 原始位置: need_organize/zip/demo.zip
+   └── 目标位置: need_organize/zip
+   └── 状态: DRY-RUN (未实际移动)
+--------------------------------------------------
+[2026-03-08 13:59:28] 整理文件: sample.txt
+   ├── 原始位置: need_organize/txt/sample.txt
+   └── 目标位置: need_organize/txt
+   └── 状态: DRY-RUN (未实际移动)
+--------------------------------------------------
+[2026-03-08 13:59:28] 整理文件: demo.txt
+   ├── 原始位置: need_organize/txt/demo.txt
+   └── 目标位置: need_organize/txt
+   └── 状态: DRY-RUN (未实际移动)
+--------------------------------------------------
+[2026-03-08 13:59:28] 整理文件: test.txt
+   ├── 原始位置: need_organize/txt/test.txt
+   └── 目标位置: need_organize/txt
+   └── 状态: DRY-RUN (未实际移动)
+--------------------------------------------------
+[2026-03-08 13:59:28] 整理文件: organizer_log.txt
+   ├── 原始位置: need_organize/txt/organizer_log.txt
+   └── 目标位置: need_organize/txt
+   └── 状态: DRY-RUN (未实际移动)
+--------------------------------------------------
+[2026-03-08 13:59:28] 整理文件: example.txt
+   ├── 原始位置: need_organize/txt/example.txt
+   └── 目标位置: need_organize/txt
+   └── 状态: DRY-RUN (未实际移动)
+--------------------------------------------------
