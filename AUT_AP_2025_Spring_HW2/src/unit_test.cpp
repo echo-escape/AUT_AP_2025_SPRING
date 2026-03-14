@@ -7,6 +7,7 @@
 #include "Q2_Word_Frequency.h"
 #include "gtest/gtest.h"
 
+// 测试新的git邮件
 // --------------------------
 // Tests for the sum function
 // --------------------------
